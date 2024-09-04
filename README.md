@@ -47,7 +47,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - **[Sintered Insert Unloding](https://youtu.be/vwi100XBGm8)** <br>
 소결 공정을 마친 인서트 제품을 소결판에서 인서트 제품을 놓는 팔레트 트레이로 자동으로 옮기는 설비 <br>
 
-  - **Project 1 : 스레드간 간섭으로 인한 충돌 문제 시스템 개선** <br>
+  - **Project 1 : 스레드간 간섭으로 인한 충돌 문제 시스템 개선**
 
      목표 : 충돌 문제의 원인 분석 및 해결, 시스템 안정화 후 설비 업데이트.
 
@@ -75,7 +75,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - **[PVD Sorter Project](https://www.youtube.com/watch?v=ZAKHg0Vuloc)** <br>
 소결 처리된 제품의 코팅 공정을 위한 설비로, 코팅 전 준비와, 코팅 후 처리를 자동화 한 설비 <br>
 
-  - **Project 1 : 설비 내 제품 분리 장치 개발** <br>
+  - **Project 1 : 설비 내 제품 분리 장치 개발**
 
      목표 : 점착된 제품을 효율적으로 분리하기 위한 장치를 개발하고, 테스트 후 상용화.
 
@@ -88,7 +88,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - **IAOI InspectionMachine Project** <br>
 코팅까지 마무리 된 제품의 최종 결함을 검사하는 설비 <br>
 
-  - **Project 1 : 심도 합성 테스트 코드 상용화 ** <br>
+  - **Project 1 : 심도 합성 테스트 코드 상용화**
 
      목표 : 테스트 용도로 개발된 심도 합성 기능을 상용화하고, 코드 최적화 및 설비 업데이트 진행.
     
@@ -121,7 +121,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - **[PackingMachine Project](https://www.youtube.com/watch?v=qEE0KorFnBo)** <br>
 최종 검사까지 마무리된 인서트 제품을 자동으로 Packaging하는 설비 <br>
 
-  - **Project 1 : 중국 현장 포장 설비 문제점 파악 및 CS 지원 ** <br>
+  - **Project 1 : 중국 현장 포장 설비 문제점 파악 및 CS 지원**
 
      목표 : 설비 운용 중 발생한 문제를 파악하고 조치하여, 정상 운용이 가능하도록 고객 서비스 지원.
     
@@ -134,7 +134,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - **Keyence InspectionMachine Project** <br>
 KEYENCE사의 TM/IM 검사 장비를 이용한 검사 핸들링 자동화 설비 개발 건 <br>
 
-  - **Project 1 : 데이터베이스를 이용한 데이터 관리 시스템 개선** <br>
+  - **Project 1 : 데이터베이스를 이용한 데이터 관리 시스템 개선**
 
      목표 : 기존에 XML 및 JSON으로 관리하던 데이터를 데이터베이스(DB)로 전환하여, 데이터 관리의 효율성을 높이고 유지보수를 용이하게 함.
     
