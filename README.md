@@ -149,5 +149,4 @@ KEYENCE사의 TM/IM 검사 장비를 이용한 검사 핸들링 자동화 설비
 
 
 
-![df](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
-![df](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![df](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) : seobc789@gmail.com
