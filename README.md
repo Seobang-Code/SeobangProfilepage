@@ -1,8 +1,8 @@
-## SBC Profile
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SeoBC%20Profile&fontSize=75) <br>
 
 ---
 ### 👨Introduction
-
 안녕하세요.<br>
 C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시스템 소프트웨어의 개발 및 개선을 담당한 주니어 엔지니어입니다.
 주로 Winform을 이용한 HMI 및 로봇 모션 제어를 개발/개선하고 테스트와 셋업을 담당하였습니다.
@@ -15,6 +15,7 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 - ![df](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![df](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 - ![df](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+- ![df](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 ### ⚡Career
