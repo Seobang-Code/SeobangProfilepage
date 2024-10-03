@@ -10,16 +10,8 @@ C#, .Net Framework를 사용하여 Windows PC 기반 로봇 제어 자동화 시
 이 문서는 저의 WTA 프로젝트 경험(경력기술)을 주로 작업했던 설비별로 작성되어있습니다.
 
 ---
-### 📱Skills
-- ![df](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![df](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- ![df](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- ![df](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-- ![df](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-- ![df](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-### ⚡Career
+### ⚡Project
 
 ####  [WTA(윈텍오토메이션)](https://wta.kr/) : 2022.01 ~ 2024.06
 금속 절삭 공구로 많이 사용되는 초경합금 인서트를 만드는 공정을 자동화해주는 로봇을 만드는 기업<br>
@@ -155,6 +147,21 @@ KEYENCE사의 TM/IM 검사 장비를 이용한 검사 핸들링 자동화 설비
       - 작업 위치별 데이터 관리를 체계화하고, 데이터 이동 규칙을 수립하여 적재 설정에 따른 데이터 이동 관리 체계를 확립.
 <br>
 
+---
+### 📱Main Skills
+- ![df](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![df](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![df](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![df](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+- ![df](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+- ![df](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱Skills Experience
+대학 전공 수업을 통한 다양한 경험
+  - C, C++, Visual Studio
+  - Java, Eclipse, Android Studio
+  - HTML, Apache Tomcat
+  
 ---
 
 
